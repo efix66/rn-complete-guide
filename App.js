@@ -15,7 +15,7 @@ export default function App() {
     ]);
   };
 
-  //Delete an intem course
+  //Delete an intem course test
 
   const removeGoalHandler = (goalId) => {
     setCoureseGoals((currentGoals) => {
